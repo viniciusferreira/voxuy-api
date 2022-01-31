@@ -1,5 +1,4 @@
-Dentro do arquivo há um conjunto de código comentado como Estruturando
-os dados, nele estão guardados o nome e o telefone do usuário, além do url da 
+Dentro do arquivo há um conjunto de código com os dados estruturados, nele estão guardados o nome e o telefone do usuário, além do url da 
 voxuy, mais embaixo se declara o body onde todas as informações referentes a API
 do voxuy estão armazanadas para serem usadas no envio(ver mais na documentação
 oficial da voxuy);
